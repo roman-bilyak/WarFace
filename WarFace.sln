@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32317.152
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarFace.Sync", "WarFace.Sync\WarFace.Sync.csproj", "{45845176-A27A-4A10-99F0-D0D7541B5DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarFace.Search", "WarFace.Search\WarFace.Search.csproj", "{F3CFBF70-B941-4402-B910-7C1C2ABB526D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45845176-A27A-4A10-99F0-D0D7541B5DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45845176-A27A-4A10-99F0-D0D7541B5DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45845176-A27A-4A10-99F0-D0D7541B5DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45845176-A27A-4A10-99F0-D0D7541B5DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CFBF70-B941-4402-B910-7C1C2ABB526D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CFBF70-B941-4402-B910-7C1C2ABB526D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CFBF70-B941-4402-B910-7C1C2ABB526D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CFBF70-B941-4402-B910-7C1C2ABB526D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
