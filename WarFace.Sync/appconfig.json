@@ -2,7 +2,10 @@
   "TelegramAPI": {
     "Hash": "7a8ddd66290cb60cf52b06dcadfec32e",
     "Id": "18572317",
-    "PhoneNumber": "+30969236752"
+    "PhoneNumber": "+30969236752",
+    "Channels": [
+      "poloneniukr"
+    ]
   },
 
   "FaceAPI": {
